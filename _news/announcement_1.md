@@ -6,4 +6,4 @@ inline: true
 
 first news: 
 
-setup mãi mới xong cái blog =='
+setup mãi mới xong blog =='
