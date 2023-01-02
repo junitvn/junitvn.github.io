@@ -11,14 +11,12 @@ profile:
   address: >
     
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 hi! mình là Lâm
-
-đây là blog đầu tiên của mình
 
 với mong ước trở thành một `người kể chuyện` thì đây là nơi mình sẽ kể những câu chuyện mà bản thân mình đã được nghe, được đọc và được trải nghiệm
 
